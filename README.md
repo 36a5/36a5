@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdulrhman 
 -  I’m a full stack dev, i am proficient in html, css, javascript, php, python, i have basic understanding of c++, c#, R, data analysis, Ai 
-- 🌱 I’m currently learning  pyhton & R 
+- 🌱 I’m currently learning  R for  data analysis and visualization 
 - 📫 How to reach me abdulrhman.salamah0@gmail.com
