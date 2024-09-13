@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdulrhman 
-- 👀 I’m interested in c++, c#, pyhtone, java, R, data analysis, Ai 
-- 🌱 I’m currently learning c++ & pyhtone
+-  I’m a full stack dev, i am proficient in html, css, javascript, php, python, i have basic understanding of c++, c#, R, data analysis, Ai 
+- 🌱 I’m currently learning  pyhton & R 
 - 📫 How to reach me abdulrhman.salamah0@gmail.com
